@@ -20,7 +20,7 @@ A premium, interactive web application that replicates the Samsung digital exper
 * **Core Library:** React.js
 * **Styling & UI:** CSS3 (Custom Variables), Bootstrap, Material UI (MUI)
 * **State Management:** Component-level State & Props
-* **Deployment:** GitHub Pages / Vercel
+* **Deployment:** GitHub Pages 
 
 ---
 
