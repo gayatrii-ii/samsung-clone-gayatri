@@ -1,0 +1,20 @@
+/* Make the SAMSUNG Logo bigger */
+.logo-section h1, .navbar-brand, .logo-text {
+    font-size: 28px !important; /* Adjust this number to go even bigger */
+    font-family: 'SamsungSharpSans', sans-serif !important;
+    font-weight: 800 !important;
+}
+
+/* Make the Nav Links (Mobile, TV, etc.) bigger */
+nav a, .nav-link, .nav-item {
+    font-size: 18px !important; /* Standard is usually 14px-16px */
+    font-family: 'samsung700', sans-serif !important;
+    padding: 0 20px !important; /* Adds space between them so they don't look cramped */
+    transition: font-size 0.2s ease;
+}
+
+/* Optional: Add a subtle hover effect to show they are active */
+nav a:hover {
+    font-size: 19px !important; 
+    color: #007aff !important; /* Classic tech blue highlight */
+}
